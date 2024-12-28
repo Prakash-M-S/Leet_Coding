@@ -1,28 +1,44 @@
 import java.util.*;
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        Set<List<Integer>> set = new HashSet<>();
+        List<List<Integer>> list = new ArrayList<>();
+        Arrays.sort(nums);
         int n=nums.length;
-        for(int i=0;i<n-1;i++)
+        for(int i=0;i<n;i++)
         {
             int a=nums[i];
-            HashMap<Integer,Integer> map=new HashMap<>();
-            for(int j=i+1;j<n;j++)
+            if(i!=0&&nums[i]==nums[i-1])
             {
-                int b=0-nums[j]-a;
-                if(map.containsKey(b))
+                continue;
+            }
+        int l=i+1;
+        int r=n-1;
+        if (a > 0) {
+                break;
+            }
+        while(l<r)
+        {
+            if(a+nums[l]+nums[r]<0)
+            {
+                l++;
+            }
+            else if(a+nums[l]+nums[r]>0)
+            {
+                r--;
+            }
+            else
+            {
+                list.add(new ArrayList<>(Arrays.asList(a,nums[l],nums[r])));
+                l++;
+                while(nums[l]==nums[l-1]&&l<r)
                 {
-                        List<Integer> list=Arrays.asList(a,nums[j],b);
-                        Collections.sort(list);
-                        set.add(list);
+                    l++;
                 }
-                else
-                {
-                    map.put(nums[j],j);
-                }
-                    }
+            }
 
+        }
                 }
-      return new ArrayList<>(set);  
+    return list;
+
     }
 }
