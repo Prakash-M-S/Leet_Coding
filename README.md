@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0898-transpose-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1646-kth-missing-positive-number) |
+| [2358-number-of-ways-to-split-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2358-number-of-ways-to-split-array) |
 ## Math
 |  |
 | ------- |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0240-search-a-2d-matrix-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2358-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
