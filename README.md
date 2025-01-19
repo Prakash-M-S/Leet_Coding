@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0202-happy-number) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
