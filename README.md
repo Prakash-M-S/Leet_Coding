@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0898-transpose-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1646-kth-missing-positive-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0387-first-unique-character-in-a-string) |
+| [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0898-transpose-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0898-transpose-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2145-grid-game) |
 ## Divide and Conquer
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
@@ -192,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0206-reverse-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
