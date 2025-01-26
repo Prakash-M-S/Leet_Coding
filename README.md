@@ -162,11 +162,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0407-trapping-rain-water-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -201,10 +203,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
