@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0387-first-unique-character-in-a-string) |
+| [2470-removing-stars-from-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2470-removing-stars-from-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0898-transpose-matrix) |
+| [2470-removing-stars-from-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0042-trapping-rain-water) |
+| [2470-removing-stars-from-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2470-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
