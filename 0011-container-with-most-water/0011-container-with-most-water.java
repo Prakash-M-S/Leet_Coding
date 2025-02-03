@@ -9,7 +9,7 @@ class Solution {
         {
             int a=arr[l];
             int b=arr[r];
-            int current=Math.min(arr[l],arr[r])*(r-l);
+            int current=Math.min(a,b)*(r-l);
             max=Math.max(current,max);
             if(a<b) l+=1;
             else r-=1;
