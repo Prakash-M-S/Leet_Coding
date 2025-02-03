@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0231-power-of-two) |
 | [1610-xor-operation-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1610-xor-operation-in-an-array) |
 ## String
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0231-power-of-two) |
 | [1610-xor-operation-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1610-xor-operation-in-an-array) |
 | [2509-minimize-xor](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2509-minimize-xor) |
 ## Simulation
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0231-power-of-two) |
 ## Depth-First Search
 |  |
 | ------- |
