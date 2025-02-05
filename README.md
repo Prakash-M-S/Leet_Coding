@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0898-transpose-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2145-grid-game) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0407-trapping-rain-water-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0820-find-eventual-safe-states) |
+| [1036-rotting-oranges](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
