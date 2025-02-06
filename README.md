@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0643-maximum-average-subarray-i) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1036-rotting-oranges) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0611-valid-triangle-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0611-valid-triangle-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1646-kth-missing-positive-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1646-kth-missing-positive-number) |
 ## Matrix
 |  |
@@ -174,10 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Greedy
 |  |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0042-trapping-rain-water) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0643-maximum-average-subarray-i) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Tree
 |  |
 | ------- |
