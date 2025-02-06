@@ -4,11 +4,9 @@ class Solution {
             return 0;  
         }
 
-
-        boolean[] isPrime = new boolean[n];
-        for (int i = 2; i <n; i++) {
-            isPrime[i] = true;
-        }
+        boolean isPrime[]=new boolean[n];
+        Arrays.fill(isPrime,true);
+isPrime[0]=isPrime[1]=false;
 
         for (int i = 2; i * i < n; i++) {  
             if (isPrime[i]) {
@@ -19,8 +17,8 @@ class Solution {
         }
 
         int count = 0;
-        for (int i = 2; i < n; i++) {
-            if (isPrime[i]) {
+        for (boolean prime:isPrime) {
+            if (prime) {
                 count++;  
             }
         }
