@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0074-search-a-2d-matrix) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0611-valid-triangle-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0064-minimum-path-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Monotonic Stack
