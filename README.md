@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2145-grid-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2145-grid-game) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2358-number-of-ways-to-split-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2358-number-of-ways-to-split-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0525-contiguous-array) |
 | [1364-tuple-with-same-product](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2145-grid-game) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
