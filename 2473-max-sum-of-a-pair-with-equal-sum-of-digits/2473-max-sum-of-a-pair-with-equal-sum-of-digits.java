@@ -1,25 +1,24 @@
 class Solution {
     public int maximumSum(int[] nums) {
-        HashMap<Integer,Integer> map =new HashMap<>();
-        int max=-1;
-        for(int num:nums)
-        {
-            int digit=0;
-            int temp=num;
-            while(num!=0)
-            {
-                int d=num%10;
-                digit+=d;
-                num=num/10;
+        int[] maxDigitSum = new int[82]; // Max digit sum can be 81 (for 999999999)
+        int maxSum = -1;
+
+        for (int num : nums) {
+            int sum = 0, temp = num;
+
+            while (temp > 0) {
+                sum += temp % 10;
+                temp /= 10;
             }
 
-            if(map.containsKey(digit))
-            {
-                max=Math.max(max,map.get(digit)+temp);
+            if (maxDigitSum[sum] > 0) {
+                maxSum = Math.max(maxSum, maxDigitSum[sum] + num);
             }
-            map.put(digit,Math.max(map.getOrDefault(digit,0),temp));
+
+            maxDigitSum[sum] = Math.max(maxDigitSum[sum], num); 
         }
-        return max;
+
+        return maxSum;
         }
        
 }
