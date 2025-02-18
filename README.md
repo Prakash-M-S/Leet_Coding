@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2470-removing-stars-from-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0820-find-eventual-safe-states) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0820-find-eventual-safe-states) |
@@ -330,12 +333,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0112-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0437-path-sum-iii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0112-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0437-path-sum-iii) |
 ## Quickselect
 |  |
@@ -346,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2434-design-a-number-container-system](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
