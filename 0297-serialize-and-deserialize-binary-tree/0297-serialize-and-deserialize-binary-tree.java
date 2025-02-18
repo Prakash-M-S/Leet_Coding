@@ -54,7 +54,7 @@ public class Codec {
         que.add(root);
         
         int i=1;
-        System.out.println(Arrays.toString(node));
+        
         while(!que.isEmpty()&&i<n)
         {
             TreeNode temp=que.poll();
