@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2107-find-unique-binary-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2145-grid-game) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2358-number-of-ways-to-split-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2358-number-of-ways-to-split-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0387-first-unique-character-in-a-string) |
+| [2107-find-unique-binary-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2107-find-unique-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2470-removing-stars-from-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3447-clear-digits) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0525-contiguous-array) |
 | [1364-tuple-with-same-product](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2107-find-unique-binary-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2107-find-unique-binary-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2448-count-number-of-bad-pairs) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0079-word-search) |
+| [2107-find-unique-binary-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2107-find-unique-binary-string) |
 ## Enumeration
 |  |
 | ------- |
