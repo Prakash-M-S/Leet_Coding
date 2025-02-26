@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0155-min-stack) |
 | [2470-removing-stars-from-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3447-clear-digits) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0084-largest-rectangle-in-histogram) |
 ## Linked List
 |  |
 | ------- |
