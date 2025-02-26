@@ -18,6 +18,7 @@ class Solution {
             stack.push(i);
         }
         stack.clear();
+        int max=0;
         for(int i=n-1;i>=0;i--)
         {
             while(!stack.isEmpty()&&heights[i]<=heights[stack.peek()])
@@ -32,13 +33,10 @@ class Solution {
             {
                 right[i]=n-1;
             }
+            max=Math.max(max,(right[i]-left[i]+1)*heights[i]);
             stack.push(i);
         }
-        int max=0;
-        for(int i=0;i<n;i++)
-        {
-            max=Math.max(max,(right[i]-left[i]+1)*heights[i]);
-        }
+        
 
         return max;
     }
