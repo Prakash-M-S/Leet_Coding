@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0437-path-sum-iii) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0437-path-sum-iii) |
