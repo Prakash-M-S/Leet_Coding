@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0343-integer-break](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0343-integer-break) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0718-maximum-length-of-repeated-subarray) |
