@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0200-number-of-islands) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0112-path-sum) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0112-path-sum) |
@@ -425,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0954-maximum-sum-circular-subarray) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
