@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0054-spiral-matrix) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0215-kth-largest-element-in-an-array) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0037-sudoku-solver) |
+| [0047-permutations-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0079-word-search) |
 | [2107-find-unique-binary-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2107-find-unique-binary-string) |
 ## Enumeration
