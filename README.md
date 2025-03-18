@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0079-word-search) |
 | [2107-find-unique-binary-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2107-find-unique-binary-string) |
 ## Enumeration
