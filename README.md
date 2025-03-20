@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0231-power-of-two) |
 | [1610-xor-operation-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1610-xor-operation-in-an-array) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0216-combination-sum-iii) |
 | [2107-find-unique-binary-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2107-find-unique-binary-string) |
