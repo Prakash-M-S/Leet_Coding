@@ -1,15 +1,35 @@
 class Solution {
-    public int maxProfit(int[] prices) {
-        int profit=0;
-        int a=prices[0];
-        for(int i=1;i<prices.length;i++)
+    int dp[][];
+    public int recursion(int i,int n,int holding,int[] prices)
+    {
+        if(i==n)
         {
-            if(prices[i]>a)
-            {
-                profit+=prices[i]-a;
-            }
-            a=prices[i];
+            return 0;
         }
-        return profit;
+        if(dp[i][holding]!=-1)
+        {
+            return dp[i][holding];
+        }
+        if(holding==0)
+        {
+            dp[i][holding]=Math.max(-prices[i]+recursion(i+1,n,1,prices),
+            recursion(i+1,n,0,prices));
+        }
+        else
+        {
+            dp[i][holding]=Math.max(prices[i]+recursion(i+1,n,0,prices),
+            recursion(i+1,n,1,prices));
+        }
+        return dp[i][holding];
+
+    }
+    public int maxProfit(int[] prices) {
+        dp=new int[prices.length][2];
+        for(int d[]:dp)
+        {
+        Arrays.fill(d,-1);
+        }
+        return recursion(0, prices.length, 0, prices);
+       
     }
 }
