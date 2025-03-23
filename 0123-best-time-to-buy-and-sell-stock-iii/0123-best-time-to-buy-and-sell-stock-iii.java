@@ -1,33 +1,26 @@
 class Solution {
-    int dp[][][];
-    public int recursion(int i,int n,int holding,int[] prices,int cap)
-    {
-        {
-        if (i == n || cap == 0) {
-            return 0;
-        }
-        if (dp[i][holding][cap] != -1) {
-            return dp[i][holding][cap];
-        }
-        if (holding == 0) {
-            dp[i][holding][cap] = Math.max(-prices[i] + recursion(i + 1, n, 1, prices, cap),
-                                           recursion(i + 1, n, 0, prices, cap));
-        } else {
-            dp[i][holding][cap] = Math.max(prices[i] + recursion(i + 1, n, 0, prices, cap - 1),
-                                           recursion(i + 1, n, 1, prices, cap));
-        }
-        return dp[i][holding][cap];
-    }
-    }
+    
+    
+    
     public int maxProfit(int[] prices) {
-        dp=new int[prices.length][2][3];
-        for(int d[][]:dp)
+        int n=prices.length;
+        int[][][] dp=new int[n+1][2][3];
+        for(int i=n-1;i>=0;i--)
         {
-            for(int di[]:d)
+            for(int holding =0;holding<=1;holding++)
             {
-                Arrays.fill(di,-1);
+                for(int cap=1;cap<=2;cap++)
+                {
+                    if (holding == 0) {
+            dp[i][holding][cap] = Math.max(-prices[i] + dp[i + 1][1][cap],
+                                          dp[i + 1][0][cap]);
+        } else {
+            dp[i][holding][cap] = Math.max(prices[i] + dp[i + 1][0][cap-1],
+                                          dp[i + 1][1][cap]);
+        }
+                }
             }
         }
-        return recursion(0, prices.length, 0, prices,2);       
+        return dp[0][0][2];
     }
 }
