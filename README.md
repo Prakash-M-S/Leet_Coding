@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0322-coin-change) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0343-integer-break) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1370-count-number-of-nice-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1610-xor-operation-in-an-array) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0287-find-the-duplicate-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1610-xor-operation-in-an-array) |
 | [2509-minimize-xor](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2509-minimize-xor) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0525-contiguous-array) |
 | [0768-partition-labels](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0768-partition-labels) |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0455-assign-cookies) |
@@ -230,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0611-valid-triangle-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0718-maximum-length-of-repeated-subarray) |
