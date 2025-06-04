@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0067-add-binary) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0049-group-anagrams) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0049-group-anagrams) |
