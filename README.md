@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0064-minimum-path-sum) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0240-search-a-2d-matrix-ii) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0072-edit-distance) |
