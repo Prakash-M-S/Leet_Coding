@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2685-first-completely-painted-row-or-column) |
+| [2792-neighboring-bitwise-xor](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2792-neighboring-bitwise-xor) |
 | [3194-find-words-containing-character](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1610-xor-operation-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1610-xor-operation-in-an-array) |
 | [2509-minimize-xor](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2509-minimize-xor) |
+| [2792-neighboring-bitwise-xor](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2792-neighboring-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
