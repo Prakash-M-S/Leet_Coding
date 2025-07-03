@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0287-find-the-duplicate-number) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0895-shortest-path-to-get-all-keys) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1610-xor-operation-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1610-xor-operation-in-an-array) |
 | [2509-minimize-xor](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2509-minimize-xor) |
 ## Simulation
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0966-binary-subarrays-with-sum) |
 | [1364-tuple-with-same-product](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1370-count-number-of-nice-subarrays) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2107-find-unique-binary-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2107-find-unique-binary-string) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2145-grid-game) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-shortest-path-to-get-all-keys](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1036-rotting-oranges](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
