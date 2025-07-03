@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3447-clear-digits) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3617-find-the-original-typed-string-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3617-find-the-original-typed-string-i) |
 ## Bit Manipulation
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2448-count-number-of-bad-pairs) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
