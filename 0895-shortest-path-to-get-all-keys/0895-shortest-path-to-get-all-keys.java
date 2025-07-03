@@ -21,7 +21,7 @@ class Solution {
                 }
             }
         }
-        int needed=(int)Math.pow(2,keys);
+        int needed=(int)1 << keys;
 
         
        
