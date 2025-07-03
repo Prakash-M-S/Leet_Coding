@@ -56,7 +56,7 @@ class Solution {
                 if(!visited[nr][nc][new_flag])
                 {
                     que.add(new int[]{nr,nc,moves+1,new_flag});
-                    visited[nr][nc][flag]=true;
+                    visited[nr][nc][new_flag]=true;
                 }
             }
         }
