@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0794-swim-in-rising-water) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0898-transpose-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0898-transpose-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0966-binary-subarrays-with-sum) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0287-find-the-duplicate-number) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1610-xor-operation-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1610-xor-operation-in-an-array) |
 | [2509-minimize-xor](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2509-minimize-xor) |
 ## Simulation
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0794-swim-in-rising-water) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0898-transpose-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0820-find-eventual-safe-states) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1036-rotting-oranges](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
