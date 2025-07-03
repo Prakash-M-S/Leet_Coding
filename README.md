@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2107-find-unique-binary-string) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2470-removing-stars-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0394-decode-string) |
 | [0937-online-stock-span](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0937-online-stock-span) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3447-clear-digits) |
 ## String Matching
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0768-partition-labels) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2509-minimize-xor) |
 ## Breadth-First Search
