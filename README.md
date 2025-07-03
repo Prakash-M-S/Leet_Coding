@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2685-first-completely-painted-row-or-column) |
 | [3194-find-words-containing-character](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2685-first-completely-painted-row-or-column) |
 ## Sorting
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2145-grid-game) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2685-first-completely-painted-row-or-column) |
 ## Divide and Conquer
 |  |
 | ------- |
