@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0047-permutations-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0202-happy-number) |
