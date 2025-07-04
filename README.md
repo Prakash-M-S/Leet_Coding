@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0204-count-primes) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0231-power-of-two) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0295-find-median-from-data-stream) |
