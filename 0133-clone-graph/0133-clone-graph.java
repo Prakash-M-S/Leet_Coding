@@ -19,7 +19,7 @@ class Node {
 */
 
 class Solution {
-    Node dfs(Node node,HashMap<Node,Node> map)
+    Node dfs(Node node,Map<Node,Node> map)
     {
         if(map.keySet().contains(node))
         {
@@ -35,7 +35,7 @@ class Solution {
     }
     public Node cloneGraph(Node node) {
         if(node==null) return null;
-        HashMap<Node,Node> map=new HashMap<>();
+        Map<Node,Node> map=new HashMap<>();
         return dfs(node,map);
     }
 }
