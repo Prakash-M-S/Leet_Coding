@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2107-find-unique-binary-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2145-grid-game) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1646-kth-missing-positive-number) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Matrix
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2145-grid-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2145-grid-game) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2685-first-completely-painted-row-or-column) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Graph
 |  |
 | ------- |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0854-making-a-large-island) |
 | [1300-critical-connections-in-a-network](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1300-critical-connections-in-a-network) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
 | ------- |
@@ -498,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2101-last-day-where-you-can-still-cross) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
