@@ -7,7 +7,6 @@ class Solution {
             if(vis[cu]!=true)
             {
             dfs(VE,cu,list,vis);
-            vis[cu]=true; 
             }
             
         }
