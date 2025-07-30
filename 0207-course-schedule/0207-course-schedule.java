@@ -24,7 +24,6 @@ class Solution {
         while(!que.isEmpty())
         {
             int node=que.poll();
-            System.out.println(node);
             for(int a:list.get(node))
             {
                 
