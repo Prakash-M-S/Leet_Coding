@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0322-coin-change) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0820-find-eventual-safe-states) |
 | [1300-critical-connections-in-a-network](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1300-critical-connections-in-a-network) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0437-path-sum-iii) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0820-find-eventual-safe-states) |
 ## Sliding Window
 |  |
