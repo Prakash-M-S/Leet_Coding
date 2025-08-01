@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0854-making-a-large-island) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0794-swim-in-rising-water) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0542-01-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0954-maximum-sum-circular-subarray) |
