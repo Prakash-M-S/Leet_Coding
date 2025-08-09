@@ -10,22 +10,14 @@ class word{
 class Solution {
     public boolean one(String s1,String s2)
     {
-        boolean one =false;
-        for(int i=0;i<s1.length();i++)
-        {
-            if(s1.charAt(i)!=s2.charAt(i))
-            {
-                if(!one)
-                {
-                    one =true;
-                }
-                else
-                {
-                    return false;
-                }
-            }
+        int diff = 0;
+    for (int i = 0; i < s1.length(); i++) {
+        if (s1.charAt(i) != s2.charAt(i)) {
+            diff++;
+            if (diff > 1) return false;
         }
-        return true;
+    }
+    return diff == 1;
     }
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
         int len=wordList.size();
