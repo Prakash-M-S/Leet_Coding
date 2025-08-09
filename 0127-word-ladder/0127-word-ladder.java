@@ -21,6 +21,7 @@ class Solution {
     }
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
         int len=wordList.size();
+        if(!wordList.contains(endWord)) return 0;
         boolean visited[]=new boolean[len];
         Queue<word> que=new LinkedList<>();
         que.offer(new word(beginWord,1));
