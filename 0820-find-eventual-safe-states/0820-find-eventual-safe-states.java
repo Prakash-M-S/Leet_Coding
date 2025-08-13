@@ -27,6 +27,9 @@ class Solution {
             {
                 res.add(i);
             }
+            else if (state[i] == 2) { 
+        res.add(i);
+    }
         }
         return res;
     }
