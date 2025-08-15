@@ -7,10 +7,7 @@ class Solution {
         for(int i=0;i<nums.length;i++)
         {
             running+=nums[i];
-            if(map.containsKey(running-k))
-            {
-                count+=map.get(running-k);
-            }
+            count += map.getOrDefault(running - k, 0);
             map.put(running,map.getOrDefault(running,0)+1);
         }
         return count;
