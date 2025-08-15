@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0966-binary-subarrays-with-sum) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0878-shifting-letters) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0966-binary-subarrays-with-sum) |
