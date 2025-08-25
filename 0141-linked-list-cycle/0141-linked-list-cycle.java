@@ -24,14 +24,11 @@ public class Solution {
             fast=fast.next.next;
             if(slow==fast)
             {
-                break;
+                return true;
             }
         }
-        if(fast==null||fast.next==null)
-        {
             return false;
-        }
-        return true;
+
         
     }
 }
