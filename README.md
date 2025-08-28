@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0954-maximum-sum-circular-subarray) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0937-online-stock-span) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0937-online-stock-span](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0937-online-stock-span) |
