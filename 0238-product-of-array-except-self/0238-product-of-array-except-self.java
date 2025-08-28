@@ -13,8 +13,6 @@ class Solution {
         {
             right[i]=right[i+1]*nums[i+1];
         }
-        System.out.print(Arrays.toString(left));
-        System.out.print(Arrays.toString(right));
         int res[]=new int[n];
         for(int i=0;i<n;i++)
         {
