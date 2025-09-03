@@ -656,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1300-critical-connections-in-a-network) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
