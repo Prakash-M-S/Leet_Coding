@@ -1,29 +1,66 @@
 class Solution {
-    public boolean isValidSudoku(char[][] board) {
-     int R = board.length;
-     int C = board.length;
-     int rowf[]= new int[R];
-     int []colf= new int[C];
-     int []subarray=new int [R];
-     for(int row=0;row<R;row++)
-     {
-        for(int col=0;col<C;col++)
+    boolean check(int row,int col,int R,int C,char[][] board)
+    {
+        for(int j=0;j<C;j++)
         {
-            if(board[row][col]!='.')
+            if(j==col)
             {
-                int dig=board[row][col]-'0';
-                int submat=3*(row/3)+(col/3);
-                if(((1<<dig)&rowf[row])!=0||((1<<dig)&colf[col])!=0||(subarray[submat]&(1<<dig))!=0)
+                continue;
+            }
+            if(board[row][j]==board[row][col])
+            {
+                return false;
+            }
+        }
+        for(int j=0;j<R;j++)
+        {
+            if(j==row)
+            {
+                continue;
+            }
+            if(board[j][col]==board[row][col])
+            {
+                return false;
+            }
+        }
+        int r_temp=(int)row/3;
+        int c_temp=(int)col/3;
+        r_temp=r_temp>0?r_temp*3:r_temp;
+        c_temp=c_temp>0?c_temp*3:c_temp;
+        for(int i=r_temp;i<r_temp+3;i++)
+        {
+            for(int j=c_temp;j<c_temp+3;j++)
+            {
+                if(i==row&&j==col)
+                {
+                    continue;
+                }
+                if(board[i][j]==board[row][col])
                 {
                     return false;
                 }
-                rowf[row]|=(1<<dig);
-                colf[col]|=(1<<dig);
-                subarray[submat]|=(1<<dig);
+            }
 
+        }
+
+        return true;
+    }
+    public boolean isValidSudoku(char[][] board) {
+        int R=board.length;
+        int C=board[0].length;
+        for(int i=0;i<R;i++)
+        {
+            for(int j=0;j<C;j++)
+            {
+                if(board[i][j]!='.')
+                {
+                    if(!check(i,j,R,C,board))
+                    {
+                        return false;
+                    }
+                }
             }
         }
-     }
         return true;
-     }
+    }
 }
