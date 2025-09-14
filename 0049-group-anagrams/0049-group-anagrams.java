@@ -14,8 +14,7 @@ class Solution {
                 sb.append(a).append('#');
             }
             String key=sb.toString();
-            map.putIfAbsent(key,new ArrayList<>());
-            map.get(key).add(s);
+            map.computeIfAbsent(key,k->new ArrayList<>()).add(s);
         }
         return new ArrayList<>(map.values());
         
