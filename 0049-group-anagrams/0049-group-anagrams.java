@@ -8,7 +8,12 @@ class Solution {
             {
                 arr[ch-'a']++;
             }
-            String key=Arrays.toString(arr);
+            StringBuilder sb=new StringBuilder();
+            for(int a:arr)
+            {
+                sb.append(a).append('#');
+            }
+            String key=sb.toString();
             map.putIfAbsent(key,new ArrayList<>());
             map.get(key).add(s);
         }
