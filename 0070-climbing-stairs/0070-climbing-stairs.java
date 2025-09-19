@@ -1,25 +1,17 @@
 class Solution {
-    int []dp;
-    private int climb(int n)
-    {
-        if(n==1)
-        {
-            return 1;
-        }
-        else if(n==2)
-        {
-            return 2;
-        }
-        if(dp[n]!=-1)
-        {
-            return dp[n];
-        }
-        dp[n]=climb(n-1)+climb(n-2);
-        return dp[n];
-    }
     public int climbStairs(int n) {
-        dp=new int[n+1];
-        Arrays.fill(dp,-1);
-        return climb(n);
+        int[] dp=new int[n+1];
+        dp[0]=1;
+        for(int i=1;i<=n;i++)
+        {
+            for(int j=1;j<=2;j++)
+            {
+                if(i>=j)
+                {
+                    dp[i]+=dp[i-j];
+                }
+            }
+        }
+        return dp[n];
     }
 }
