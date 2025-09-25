@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0343-integer-break) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1370-count-number-of-nice-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1610-xor-operation-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2448-count-number-of-bad-pairs) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0954-maximum-sum-circular-subarray) |
+| [1236-n-th-tribonacci-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1250-longest-common-subsequence) |
 ## Monotonic Stack
 |  |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0139-word-break) |
+| [1236-n-th-tribonacci-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1236-n-th-tribonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
