@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0198-house-robber) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0268-missing-number) |
