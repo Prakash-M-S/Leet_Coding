@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0733-flood-fill) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0794-swim-in-rising-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0854-making-a-large-island) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0820-find-eventual-safe-states) |
 | [1300-critical-connections-in-a-network](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1300-critical-connections-in-a-network) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1073-number-of-enclaves) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
