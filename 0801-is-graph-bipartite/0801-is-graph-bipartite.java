@@ -1,10 +1,6 @@
 class Solution {
     public boolean isBipartite(int[][] graph) {
         int V=graph.length;
-        if(V<=2)
-        {
-            return true;
-        }
         char ch[]=new char[V];
         Arrays.fill(ch,'U');
         Queue<Integer> q=new LinkedList<>();
@@ -26,14 +22,9 @@ class Solution {
                     q.offer(nei);
                 }
                 else if(ch[nei]==ch[curr])
-
                 {
                     return false;
                     
-                }
-                else
-                {
-                    continue;
                 }
             }
         }
