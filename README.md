@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0070-climbing-stairs) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0072-edit-distance) |
@@ -738,4 +740,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0347-top-k-frequent-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
