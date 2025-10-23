@@ -25,6 +25,11 @@ class Solution {
     private int bs(int arr[],int l,int r,int target)
     {
     int n=arr.length;
+    if(n<2)
+    {
+        return 0;
+    }
+
         while(l<=r)
         {
             int mid = l+(r-l)/2;
@@ -43,17 +48,29 @@ class Solution {
         }
         return -1;
     }
-public int search(int nums[], int target) {
-        int f=find(nums);
-        if (nums.length == 0) return -1;
-        if(nums[f]==target)
+public int search(int arr[], int target) {
+        int f=find(arr);
+        if(arr[f]==target)
         {
             return f;
         }
-        if (target >= nums[f] && target <= nums[nums.length - 1])
-            return bs(nums, f, nums.length - 1, target);
-        else
-            return bs(nums, 0, f - 1, target);
+        int left=bs(arr,0,f,target);
+        int right =bs(arr,f+1,arr.length-1,target);
+        if(left!=-1)
+        {
+            if(arr[left]==target)
+            {
+                return left;
+            }
+        }
+        else if(right!=-1)
+        {
+            if(arr[right]==target)
+            {
+                return right;
+            }
+        }
+        return -1;
 
     }
 }
