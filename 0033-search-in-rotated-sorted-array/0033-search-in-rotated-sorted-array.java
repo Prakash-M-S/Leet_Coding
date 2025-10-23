@@ -45,7 +45,7 @@ class Solution {
     }
 public int search(int nums[], int target) {
         int f=find(nums);
-        System.out.println(f);
+        if (nums.length == 0) return -1;
         if(nums[f]==target)
         {
             return f;
