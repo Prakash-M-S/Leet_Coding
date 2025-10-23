@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0817-design-hashmap) |
 | [0854-making-a-large-island](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0854-making-a-large-island) |
 | [0878-shifting-letters](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0878-shifting-letters) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0898-transpose-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0898-transpose-matrix) |
 | [0952-word-subsets](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0952-word-subsets) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0611-valid-triangle-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0794-swim-in-rising-water) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1646-kth-missing-positive-number) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2101-last-day-where-you-can-still-cross) |
