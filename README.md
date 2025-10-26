@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3429-special-array-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1610-xor-operation-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## String
 |  |
 | ------- |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-airplane-seat-assignment-probability](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1362-airplane-seat-assignment-probability) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0062-unique-paths) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Probability and Statistics
 |  |
 | ------- |
