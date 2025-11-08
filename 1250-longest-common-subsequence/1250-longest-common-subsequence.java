@@ -1,26 +1,35 @@
 class Solution {
-    public int longestCommonSubsequence(String s1, String s2) {
-        int n=s1.length();
-        int m=s2.length();
-        if(m<0||n<0)
+    int dp[][];
+    public int recurse(int i ,int j,char s1[],char s2[],int n , int m)
+    {
+        if(i==n||j==m)
         {
             return 0;
         }
-        int dp[][]=new int[n+1][m+1];
-        for(int i=1;i<=n;i++)
+        if(dp[i][j]!=-1)
+       {
+        return dp[i][j];
+       }
+        if(s1[i]==s2[j])
         {
-            for(int j=1;j<=m;j++)
-            {
-                if(s1.charAt(i-1)==s2.charAt(j-1))
-                {
-                    dp[i][j]=1+dp[i-1][j-1];
-                }
-                else{
-                    dp[i][j]=Math.max(dp[i-1][j],dp[i][j-1]);
-                }
-            }
-
+            dp[i][j]=1+recurse(i+1,j+1,s1,s2,n,m);
+            return dp[i][j];
         }
-        return dp[n][m];
+       
+        dp[i][j]=Math.max(recurse(i+1,j,s1,s2,n,m),recurse(i,j+1,s1,s2,n,m));
+        return dp[i][j];
+        
+    }
+    public int longestCommonSubsequence(String text1, String text2) {
+        char s1[]=text1.toCharArray();
+        char s2[]=text2.toCharArray();
+        int n=s1.length;
+        int m=s2.length;
+        dp=new int[n][m];
+        for(int arr[]:dp)
+        {
+            Arrays.fill(arr,-1);
+        }
+        return recurse(0,0,s1,s2,n,m);
     }
 }
