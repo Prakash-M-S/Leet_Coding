@@ -32,7 +32,7 @@ boolean ans=false;
         }
         else if(p.charAt(j)=='*')
         {
-            ans= recurse(s,p,i+1,j,n,m)|recurse(s,p,i,j+1,n,m);
+            ans= recurse(s,p,i+1,j,n,m)||recurse(s,p,i,j+1,n,m);
                 
         }
         dp[i][j]=ans?1:0;
