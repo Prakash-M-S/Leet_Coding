@@ -757,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0620-not-boring-movies) |
+| [1045-customers-who-bought-all-products](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1045-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1258-article-views-i) |
