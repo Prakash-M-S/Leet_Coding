@@ -13,7 +13,7 @@ class Solution {
             dp[i][j]=0;
             return false;
         }
-        if(dp[i][j]!=-1) return false;
+        if(dp[i][j]!=-1) return dp[i][j]==1?true:false;
         if (i == n) {
         for (int k = j; k < m; k++) {
         if (p.charAt(k) != '*') 
