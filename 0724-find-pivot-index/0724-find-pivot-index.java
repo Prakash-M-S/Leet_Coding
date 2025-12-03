@@ -2,20 +2,23 @@ class Solution {
     public int pivotIndex(int[] nums) {
         int n=nums.length;
         int prefix[]=new int[n];
-        prefix[0]=nums[0];
-        for(int i=1;i<n;i++)
+        int right = 0;
+        for(int i =1;i<n;i++)
         {
-            prefix[i]=prefix[i-1]+nums[i];
+            prefix[i]=prefix[i-1]+nums[i-1];
         }
-        int left=0;
-        int right=prefix[n-1];
-        for(int i=0;i<n;i++)
+        int suffix[]=new int[n];
+        for(int i =n-2;i>=0;i--)
         {
-            if(left==right-prefix[i])
+            suffix[i]=suffix[i+1]+nums[i+1];
+        }
+
+        for(int i =0;i<n;i++)
+        {
+            if(prefix[i]==suffix[i])
             {
                 return i;
             }
-            left=prefix[i];
         }
         return -1;
     }
