@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0768-partition-labels) |
 | [0817-design-hashmap](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0817-design-hashmap) |
+| [0895-maximum-frequency-stack](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0895-maximum-frequency-stack) |
 | [0952-word-subsets](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0966-binary-subarrays-with-sum) |
 | [1364-tuple-with-same-product](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1364-tuple-with-same-product) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0496-next-greater-element-i) |
+| [0895-maximum-frequency-stack](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0895-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0937-online-stock-span) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2470-removing-stars-from-a-string) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0817-design-hashmap](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0817-design-hashmap) |
+| [0895-maximum-frequency-stack](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0895-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0937-online-stock-span) |
 | [2169-simple-bank-system](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2169-simple-bank-system) |
 | [2434-design-a-number-container-system](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2434-design-a-number-container-system) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0895-maximum-frequency-stack](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0895-maximum-frequency-stack) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2434-design-a-number-container-system](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2434-design-a-number-container-system) |
 ## Monotonic Queue
