@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1646-kth-missing-positive-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1646-kth-missing-positive-number) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0611-valid-triangle-number) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1250-longest-common-subsequence) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1362-airplane-seat-assignment-probability) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Monotonic Stack
 |  |
 | ------- |
