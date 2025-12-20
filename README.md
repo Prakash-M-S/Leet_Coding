@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0878-shifting-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0952-word-subsets) |
+| [1106-parsing-a-boolean-expression](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1106-parsing-a-boolean-expression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0496-next-greater-element-i) |
 | [0895-maximum-frequency-stack](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0895-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0937-online-stock-span) |
+| [1106-parsing-a-boolean-expression](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1106-parsing-a-boolean-expression) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3447-clear-digits) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0394-decode-string) |
+| [1106-parsing-a-boolean-expression](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1106-parsing-a-boolean-expression) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Depth-First Search
 |  |
