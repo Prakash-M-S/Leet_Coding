@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2145-grid-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2145-grid-game) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1370-count-number-of-nice-subarrays) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2358-number-of-ways-to-split-array) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1250-longest-common-subsequence) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1362-airplane-seat-assignment-probability) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Monotonic Stack
 |  |
@@ -766,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1236-n-th-tribonacci-number) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 ## Brainteaser
 |  |
 | ------- |
