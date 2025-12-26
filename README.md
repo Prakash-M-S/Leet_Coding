@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0992-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1036-rotting-oranges) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1073-number-of-enclaves) |
 | [1364-tuple-with-same-product](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1364-tuple-with-same-product) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0954-maximum-sum-circular-subarray) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1043-partition-array-for-maximum-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1250-longest-common-subsequence) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1362-airplane-seat-assignment-probability) |
