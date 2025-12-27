@@ -8,19 +8,15 @@ class Solution {
             res.add(new ArrayList<>(l));
             return;
         }
-        String temp="";
         int minCost = Integer.MAX_VALUE;
         for(int j =i;j<n;j++)
         {
-            temp+=s.charAt(j);
-            int cost= 0;
 
             if(pal[i][j])
             {
-                l.add(temp);
+                l.add(s.substring(i, j + 1));
                 recurse(j+1,s,n,l);
                 l.remove(l.size()-1);
-
             }
         }
         return;
