@@ -1,26 +1,43 @@
 class Solution {
-    
-    
-    
+    int dp[][][];
+    private int recurse(int day,int hold,int trans,int prices[],int n)
+    {
+        if(day==n)
+        {
+            return 0;
+        }
+        if(trans==0)
+        {
+            return 0;
+        }
+        if(dp[day][hold][trans]!=-1)
+        {
+            return dp[day][hold][trans]; 
+        }
+        if(hold ==1)
+        {
+            int sell=prices[day]+recurse(day+1,0,trans-1,prices,n);
+            int not_sell = recurse(day+1,1,trans,prices,n);
+            dp[day][hold][trans]=Math.max(sell,not_sell);
+        }
+        else
+        {
+            int buy = -prices[day]+recurse(day+1,1,trans,prices,n);
+            int not_buy=recurse(day+1,0,trans,prices,n);
+            dp[day][hold][trans]=Math.max(buy,not_buy);
+        }
+        return dp[day][hold][trans];
+    }
     public int maxProfit(int[] prices) {
         int n=prices.length;
-        int[][][] dp=new int[n+1][2][3];
-        for(int i=n-1;i>=0;i--)
+        dp=new int[n][2][3];
+        for(int arr[][]:dp)
         {
-            for(int holding =0;holding<=1;holding++)
+            for(int a[]:arr)
             {
-                for(int cap=1;cap<=2;cap++)
-                {
-                    if (holding == 0) {
-            dp[i][holding][cap] = Math.max(-prices[i] + dp[i + 1][1][cap],
-                                          dp[i + 1][0][cap]);
-        } else {
-            dp[i][holding][cap] = Math.max(prices[i] + dp[i + 1][0][cap-1],
-                                          dp[i + 1][1][cap]);
-        }
-                }
+                Arrays.fill(a,-1);
             }
         }
-        return dp[0][0][2];
+        return recurse(0,0,2,prices,n);
     }
 }
