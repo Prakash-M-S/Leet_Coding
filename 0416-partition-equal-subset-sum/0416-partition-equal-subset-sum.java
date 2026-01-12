@@ -1,28 +1,28 @@
 class Solution {
     Boolean dp[][];
-    public boolean recursion(int nums[],int n,int i,int need)
+    int tot;
+    private boolean recurse(int idx,int sum,int nums[],int n)
     {
-        if(need==0) return true;
-        if(i>=n) return false;
-    if(dp[i][need]!=null) return dp[i][need];
-        boolean include=(nums[i]<=need)&&recursion(nums,n,i+1,need-nums[i]);
-        dp[i][need]=include||recursion(nums,n,i+1,need);
-        return dp[i][need];
-    }
-    public boolean canPartition(int[] nums) {
-        int sum=0;
-        int n=nums.length;
-       
-        for(int a:nums)
+        if(sum==(tot-sum))
         {
-            sum+=a;
+            return true;
         }
-        if((sum&1)==1)
+        if(idx==n)
         {
             return false;
         }
-         dp=new Boolean[n][sum+1];
-        int need=sum/2;
-        return recursion(nums,n,0,need);
+        if(dp[idx][sum]!=null)
+        {
+            return dp[idx][sum];
+        }
+        dp[idx][sum]=recurse(idx+1,sum+nums[idx],nums,n)|recurse(idx+1,sum,nums,n);
+        return dp[idx][sum];
+    }
+    public boolean canPartition(int[] nums) {
+     tot=0;
+        int n =nums.length;
+        for(int a:nums) tot+=a;
+        dp=new Boolean[n][tot+1];
+        return recurse(0,0,nums,n);
     }
 }
