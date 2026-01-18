@@ -18,7 +18,6 @@ class Solution {
     // }
     // dp[i][j]=min;
     // return min;
-
     // }
     public int minCost(int n, int[] cuts) {
         int c = cuts.length;
