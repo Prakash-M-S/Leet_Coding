@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3429-special-array-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2792-neighboring-bitwise-xor) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prakash-M-S/Leet_Coding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
