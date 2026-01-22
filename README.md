@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2685-count-the-number-of-complete-components](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1300-critical-connections-in-a-network) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2685-count-the-number-of-complete-components](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2685-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
@@ -856,4 +858,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
