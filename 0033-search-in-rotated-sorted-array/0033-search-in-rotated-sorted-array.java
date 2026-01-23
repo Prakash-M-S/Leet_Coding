@@ -6,21 +6,20 @@ class Solution {
     {
         return 0;
     }
-        int l =0;
-        int r= n-1;
-        while(l<r)
-        {   int mid = l+(r-l)/2;
-            if(arr[mid]>arr[r])
+        int left =0;
+        int right= n-1;
+        while(left<right)
+        {   int mid = left+(right-left)/2;
+            if(arr[mid]>arr[right])
             {
-                l=mid+1;
+                left=mid+1;
             }
             else
             {
-                r=mid;
-                
+                right=mid;
             }
         }
-        return l;
+        return left;
     }
     private int bs(int arr[],int l,int r,int target)
     {
