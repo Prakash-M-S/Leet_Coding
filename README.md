@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0394-decode-string) |
 | [0466-count-the-repetitions](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0466-count-the-repetitions) |
+| [0516-longest-palindromic-subsequence](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0768-partition-labels) |
 | [0878-shifting-letters](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0878-shifting-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0944-delete-columns-to-make-sorted) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0416-partition-equal-subset-sum) |
 | [0466-count-the-repetitions](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0466-count-the-repetitions) |
 | [0494-target-sum](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
