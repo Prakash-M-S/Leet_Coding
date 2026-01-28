@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0242-valid-anagram) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0202-happy-number) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0817-design-hashmap) |
 ## Recursion
