@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1300-critical-connections-in-a-network) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [1992-find-all-groups-of-farmland](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0437-path-sum-iii) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0783-search-in-a-binary-search-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0783-search-in-a-binary-search-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Quickselect
 |  |
 | ------- |
