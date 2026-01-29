@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1992-find-all-groups-of-farmland](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1992-find-all-groups-of-farmland) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2107-find-unique-binary-string](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2107-find-unique-binary-string) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1992-find-all-groups-of-farmland](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2145-grid-game](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2145-grid-game) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1992-find-all-groups-of-farmland](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1300-critical-connections-in-a-network) |
 | [1396-count-servers-that-communicate](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1396-count-servers-that-communicate) |
+| [1992-find-all-groups-of-farmland](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prakash-M-S/Leet_Coding/tree/master/2685-count-the-number-of-complete-components) |
 ## Union Find
