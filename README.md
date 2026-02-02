@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0794-swim-in-rising-water) |
 | [0817-design-hashmap](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0817-design-hashmap) |
 | [0854-making-a-large-island](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0854-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0875-koko-eating-bananas) |
 | [0878-shifting-letters](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0981-time-based-key-value-store](https://github.com/Prakash-M-S/Leet_Coding/tree/master/0981-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prakash-M-S/Leet_Coding/tree/master/1046-max-consecutive-ones-iii) |
